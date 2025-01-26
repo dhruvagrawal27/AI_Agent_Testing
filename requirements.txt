@@ -1,0 +1,4 @@
+phidata
+Groq
+yfinance
+duckduckgo-search
